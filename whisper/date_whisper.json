@@ -1,0 +1,6 @@
+{
+  "model": "whisper",
+  "author": "OpenAI",
+  "license": "MIT",
+  "type": "decoder-encoder"
+}
